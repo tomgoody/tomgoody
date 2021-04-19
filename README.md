@@ -1,0 +1,3 @@
+- Hi, I’m @tomgoody
+- Manual QA tester with 11 years of experience working on learning automation (Java with Selenium)
+- Can be reached at tgoody1986@gmail.com
