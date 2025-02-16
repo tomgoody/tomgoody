@@ -1,3 +1,1 @@
-- Hi, I’m @tomgoody
-- Manual QA tester with 15 years of experience working on learning automation (C# with Selenium)
-- Can be reached at tgoody1986@gmail.com
+
